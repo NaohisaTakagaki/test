@@ -7,8 +7,8 @@ The air-water momentum flux was measured in a typhoon simulation tank at the Res
 For more information, please refer to the following details:
 
 
-    • Authors: Naohisa Takagaki, Naoya Suzuki, Koji Iwano, Kazuki Nishiumi, Ryota Hayashi, Naoki Kurihara, Kosuke Nishitani, 
-               Takumi Hamaguchi 
+    • Authors: Naohisa Takagaki, Naoya Suzuki, Koji Iwano, Kazuki Nishiumi, Ryota Hayashi, Naoki Kurihara,
+               Kosuke Nishitani, Takumi Hamaguchi 
 
     • DOI: 10.1080/21664250.2023.2244751
 
